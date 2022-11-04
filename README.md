@@ -1,3 +1,5 @@
+example plugin demonstrating API bug: https://github.com/obsidianmd/obsidian-api/issues/85
+
 - compile, install, and enable this plugin
 - invoke "open sample modal (simple)" from command palette
 - using arrow keys, navigate to "choose me" option
